@@ -1,0 +1,10 @@
+Running the Dijkstra's algorithm on 0
+Distances:
+0 100 68 53 94 122 120 182 123 123 127 220 205 281 298 364 368 376 395 414 466 511 496 
+Parents:
+0 0 0 0 3 4 4 6 4 4 4 10 10 12 13 14 15 16 14 18 18 20 20 
+Path from 0 to 22 is:
+0 3 4 10 12 13 14 18 20 22 
+Calculating length of the shortest path from 0 to 22
+0 3 4 10 12 13 14 18 20 22 
+The length is 496
